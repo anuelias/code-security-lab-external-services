@@ -20,3 +20,4 @@ jobs:
         static_analysis_enabled: true
         cpu_count: 2
 
+
