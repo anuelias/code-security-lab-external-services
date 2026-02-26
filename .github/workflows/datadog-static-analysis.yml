@@ -19,4 +19,4 @@ jobs:
         secrets_enabled: false
         static_analysis_enabled: true
         cpu_count: 2
-        
+
